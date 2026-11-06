@@ -1,0 +1,1 @@
+Línea 4: 10 / (5 - 5) | división por cero en posición 4

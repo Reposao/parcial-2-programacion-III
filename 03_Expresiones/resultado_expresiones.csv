@@ -1,0 +1,5 @@
+linea;infija;postfija;resultado;estado
+1;(8 + 4) * 2;8 4 + 2 *;24;OK
+2;(7 * 2) >= (20 - 3);7 2 * 20 3 - >=;false;OK
+3;!(3 > 5) && (2 + 2 == 4);3 5 > ! 2 2 + 4 == &&;true;OK
+4;10 / (5 - 5);10 5 5 - /;división por cero en posición 4;ERROR

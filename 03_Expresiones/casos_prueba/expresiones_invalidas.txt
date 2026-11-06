@@ -1,0 +1,8 @@
+# Error léxico, de paréntesis, de sintaxis, de tipos y división por cero.
+2 + ?
+(4 * 2
+3 +
+true + 2
+5 / (3 - 3)
+2 3
+!false == true
