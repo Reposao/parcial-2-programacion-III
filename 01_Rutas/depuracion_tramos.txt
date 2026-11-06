@@ -1,0 +1,2 @@
+Línea 8: A,A,2,1 | sale y llega al mismo centro
+Línea 9: A,B,9,7 | pareja dirigida repetida

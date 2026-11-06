@@ -1,0 +1,9 @@
+# origen,destino,minutos,costo
+A,B,8,5
+B,D,7,4
+A,C,6,2
+C,D,12,1
+B,C,3,2
+C,B,4,1
+A,A,2,1
+A,B,9,7

@@ -1,0 +1,7 @@
+# Las líneas 3 y 4 se descartan; 5 y 6 se reportan como inválidas.
+A,B,8,5
+A,A,1,1
+A,B,9,7
+A,C,mal,3
+C,D,2,0
+B,A,2,1

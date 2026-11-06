@@ -1,0 +1,5 @@
+# Camino de ida y vuelta, mismo origen y destino, centro inexistente.
+A,B
+B,A
+A,A
+Z,A

@@ -1,0 +1,11 @@
+=== A -> D ===
+Paso 0: A
+Paso 1: A, B, C
+Paso 2: A, B, C, D
+Se estabiliza en el paso 3.
+
+=== B -> A ===
+Paso 0: B
+Paso 1: B, C, D
+Se estabiliza en el paso 2.
+
